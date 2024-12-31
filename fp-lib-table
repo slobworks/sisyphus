@@ -2,5 +2,5 @@
   (version 7)
   (lib (name "SOIC8_DMP8")(type "KiCad")(uri "${KIPRJMOD}/new_parts/SOIC-8_DMP-8_Combo.pretty")(options "")(descr ""))
   (lib (name "TSSOP_SSOP")(type "KiCad")(uri "${KIPRJMOD}/new_parts/TSSOP_SSOP_Combo.pretty")(options "")(descr ""))
-  (lib (name "derp")(type "KiCad")(uri "/home/melvin/Documents/sisyphus/sisyphus-pci")(options "")(descr ""))
+  (lib (name "derp")(type "KiCad")(uri "${KIPRJMOD}/new_parts")(options "")(descr ""))
 )
